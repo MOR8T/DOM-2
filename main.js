@@ -56,4 +56,3 @@ document.body.appendChild(H1);
 
 H1.setAttribute("id","id_h1_1");
 console.log(H1);
-
