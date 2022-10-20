@@ -17,5 +17,5 @@
 ## contains()
 ![](./img/js5.jpg)
 #
-## setAtributte
+## setAtributte()
 ![](./img/js6.jpg)
