@@ -7,7 +7,7 @@
 ## appendChild()
 ![](./img/js1.jpg)
 #
-## classChild()
+## classList()
 ## add()
 ![](./img/js2.jpg)
 ## remove()
